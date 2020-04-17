@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">小计划</string>
+    <string name="title">我的一天</string>
+    <string name="rename_item">重命名清单</string>
+    <string name="delete_item">删除清单</string>
+    <string name="hint_word">添加任务</string>
+    <string name="button_save">添加</string>
+    <string name="first_buttontext">新建清单</string>
+</resources>
